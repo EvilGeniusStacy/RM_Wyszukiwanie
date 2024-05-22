@@ -20,4 +20,5 @@ INSTRUKCJA OBSŁUGI:
 2. Uruchomić "Wyszukiwanie.java" w terminalu lub edytorze.
 3. Wpisać teskt który chcemy wyszukać (ważna jest dokładność odnośnie dużych, małych liter, gramatyki itp.).
 4. Jeśli chcemy wyszukać ciąg dowolnych znaków, przed tekstem wpisujemy "*".
-5. Jeśli chcemy wyszukać jeden dowolny znak, przed tekstem wpisujemy "?". 
+5. Jeśli chcemy wyszukać jeden dowolny znak, przed tekstem wpisujemy "?".
+6. Projekt zawiera przykładowy teskt pt. "PanT.txt.", jest to fragment pana tadeusza. 
